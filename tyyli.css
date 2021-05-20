@@ -1,0 +1,25 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    list-style-type: circle;
+    background-color:blanchedalmond;
+}
+.blog-post {
+    background-color: violet;
+}
+p {
+    margin: 5px;
+}
+.mt-auto {
+    position:fixed;
+    bottom:0;
+    width: 100%;
+}
+#sivupalkki {
+    background-color: chartreuse;
+}
+#kortti {
+    margin:5%;
+}
+#blogi {
+    margin-top: 5%;
+}
