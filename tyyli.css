@@ -1,10 +1,10 @@
 body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     list-style-type: circle;
-    background-color:blanchedalmond;
+    background-color: #FFE3E0;
 }
 .blog-post {
-    background-color: violet;
+    background-color: #F38375;
 }
 p {
     margin: 5px;
@@ -15,11 +15,37 @@ p {
     width: 100%;
 }
 #sivupalkki {
-    background-color: chartreuse;
+    background-color:#F38375;
 }
 #kortti {
     margin:5%;
+    margin-left: 10%;
+
 }
 #blogi {
     margin-top: 5%;
 }
+#navbar {
+    background-color: #EF6351;
+}
+#music {
+    background-color: #EF6351;
+    
+}
+#kuva {
+    margin: 5%;
+}
+#wireframe {
+    margin-left:10%;
+}
+
+/*
+Värit
+
+
+#EF6351
+#F38375
+#F7A399
+#FBC3BC
+#FFE3E0
+/*
